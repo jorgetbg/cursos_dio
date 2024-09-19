@@ -6,8 +6,8 @@ contas=[]
 LIMITE_SAQUES=3
 
 
-usuarios.append({"nome":'Jorge',"cpf":'08540941996',"data_nascimento":'11/05/1994',"endereco":'José Verissimo'})
-contas.append({'cpf':'08540941996','agencia':'0001',"numero":'01',"saldo":500.35,'extrato':"","limite":500,"numero_saques":0})
+usuarios.append({"nome":'Jorge',"cpf":'123456789',"data_nascimento":'11/05/1900',"endereco":'José Otímo'})
+contas.append({'cpf':'123456789','agencia':'0001',"numero":'01',"saldo":500.35,'extrato':"","limite":500,"numero_saques":0})
 
 print(contas[0])
     
